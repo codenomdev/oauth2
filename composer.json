@@ -1,0 +1,45 @@
+{
+    "name": "codenom/oauth2",
+    "description": "OAuth2 Core CodeIgniter 4 for project Codenom",
+    "homepage": "https://github.com/codenomdev/oauth2",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+        "codeigniter4/framework": "^4.0",
+    },
+    "keywords": [
+        "oauth",
+        "oauth2",
+        "oauth 2",
+        "oauth 2.0",
+        "server",
+        "auth",
+        "authorization",
+        "authentication",
+        "resource",
+        "rest",
+        "rest api",
+        "api",
+        "auth",
+        "protect",
+        "secure",
+        "heimdall",
+        "codeigniter",
+        "codeginiter4",
+        "codeigniter 4",
+        "ci",
+        "ci4",
+        "codeigniter oauth"
+    ],
+    "authors": [
+        {
+            "name": "Ilham Falachul Adha",
+            "email": "codenomdev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Codenom\\OAuth2\\": "src/"
+        }
+    }
+}
